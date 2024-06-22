@@ -1,0 +1,14 @@
+{
+  "name": "simple_counter_app",
+  "version": "1.0.0",
+  "description": "counter_app",
+  "main": "script.js",
+  "scripts": {
+    "test": "build"
+  },
+  "keywords": [
+    "build"
+  ],
+  "author": "luciaprograma",
+  "license": "ISC"
+}
